@@ -3,7 +3,7 @@ from flask import Flask
 from flask import request
 from flask import url_for
 from flask import render_template
-from modules import funcy
+from module import funci
 
 
 app = Flask(__name__)
